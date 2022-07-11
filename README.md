@@ -1,7 +1,5 @@
-# iOS smart home app with neomorphism design
+# iOS Smart Home App
 
-![Calculator](./asset/bg.jpg)
+![Screenshots](./asset/1.png) ![Screenshots](./asset/2.png)
 
-### Built by SwiftUI
-
-### Design by
+### 📸 Design by [Ayda Esmradi](https://www.linkedin.com/in/aydaesmradi/)
